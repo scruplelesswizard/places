@@ -1,0 +1,28 @@
+- [ ] Austria
+- [ ] Belgium
+- [ ] Bulgaria
+- [ ] Croatia
+- [ ] Cyprus
+- [ ] Czech Republic
+- [ ] Denmark
+- [ ] Estonia
+- [ ] Finland
+- [x] France
+- [x] Germany
+- [ ] Greece
+- [ ] Hungary
+- [ ] Ireland
+- [x] Italy
+- [ ] Latvia
+- [ ] Lithuania
+- [ ] Luxembourg
+- [ ] Malta
+- [ ] Netherlands
+- [ ] Poland
+- [ ] Portugal
+- [ ] Romania
+- [ ] Slovakia
+- [ ] Slovienia
+- [ ] Spain
+- [ ] Sweden
+- [x] United Kingdom
