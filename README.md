@@ -4,7 +4,7 @@
 - [ ] Croatia
 - [ ] Cyprus
 - [ ] Czech Republic
-- [ ] Denmark
+- [x] Denmark
 - [ ] Estonia
 - [ ] Finland
 - [x] France
