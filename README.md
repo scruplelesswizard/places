@@ -17,7 +17,7 @@
 - [ ] Lithuania
 - [ ] Luxembourg
 - [ ] Malta
-- [ ] Netherlands
+- [x] Netherlands
 - [x] Poland
 - [ ] Portugal
 - [ ] Romania
