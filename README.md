@@ -1,28 +1,210 @@
+# Places I've Visited
+
+![World Map marked with the places I've visited](https://map1.maploco.com/visited-countries/ml/m9bbf7zxq8-b3zcnzrqww-b9mjuhn20w-b6801f1av4-2rrwbbgagw.gif)
+
+## Continents
+- [X] Asia
+- [x] Africa
+- [X] Europe
+- [X] North America
+- [ ] South America
+- [ ] Australia/Oceania
+- [ ] Antarctica
+
+## Countries
+- [ ] Afghanistan
+- [ ] Albania
+- [ ] Algeria
+- [ ] Andorra
+- [ ] Angola
+- [ ] Antigua and Barbuda
+- [ ] Argentina
+- [ ] Armenia
+- [ ] Australia
 - [ ] Austria
+- [ ] Azerbaijan
+- [ ] The Bahamas
+- [ ] Bahrain
+- [ ] Bangladesh
+- [ ] Barbados
+- [ ] Belarus
 - [ ] Belgium
+- [x] Belize
+- [ ] Benin
+- [ ] Bhutan
+- [ ] Bolivia
+- [ ] Bosnia and Herzegovina
+- [ ] Botswana
+- [ ] Brazil
+- [ ] Brunei
 - [ ] Bulgaria
+- [ ] Burkina Faso
+- [ ] Burundi
+- [ ] Cabo Verde
+- [ ] Cambodia
+- [ ] Cameroon
+- [x] Canada
+- [ ] Central African Republic
+- [ ] Chad
+- [ ] Chile
+- [x] China
+- [ ] Colombia
+- [ ] Comoros
+- [ ] Congo, Democratic Republic of the
+- [ ] Congo, Republic of the
+- [ ] Costa Rica
+- [ ] Côte d’Ivoire
 - [ ] Croatia
+- [ ] Cuba
 - [ ] Cyprus
 - [ ] Czech Republic
 - [x] Denmark
+- [ ] Djibouti
+- [ ] Dominica
+- [ ] Dominican Republic
+- [ ] East Timor (Timor-Leste)
+- [ ] Ecuador
+- [x] Egypt
+- [ ] El Salvador
+- [ ] Equatorial Guinea
+- [ ] Eritrea
 - [ ] Estonia
+- [ ] Eswatini
+- [ ] Ethiopia
+- [ ] Fiji
 - [ ] Finland
 - [x] France
+- [ ] Gabon
+- [ ] The Gambia
+- [ ] Georgia
 - [x] Germany
+- [ ] Ghana
 - [ ] Greece
+- [ ] Grenada
+- [ ] Guatemala
+- [ ] Guinea
+- [ ] Guinea-Bissau
+- [ ] Guyana
+- [ ] Haiti
+- [ ] Honduras
 - [ ] Hungary
-- [ ] Ireland
+- [ ] Iceland
+- [ ] India
+- [ ] Indonesia
+- [ ] Iran
+- [ ] Iraq
+- [x] Ireland
+- [ ] Israel
 - [x] Italy
+- [x] Jamaica
+- [ ] Japan
+- [ ] Jordan
+- [ ] Kazakhstan
+- [ ] Kenya
+- [ ] Kiribati
+- [ ] Korea, North
+- [ ] Korea, South
+- [ ] Kosovo
+- [ ] Kuwait
+- [ ] Kyrgyzstan
+- [ ] Laos
 - [ ] Latvia
+- [ ] Lebanon
+- [ ] Lesotho
+- [ ] Liberia
+- [ ] Libya
+- [ ] Liechtenstein
 - [ ] Lithuania
 - [ ] Luxembourg
+- [ ] Madagascar
+- [ ] Malawi
+- [x] Malaysia
+- [x] Maldives
+- [ ] Mali
 - [ ] Malta
+- [ ] Marshall Islands
+- [ ] Mauritania
+- [ ] Mauritius
+- [x] Mexico
+- [ ] Micronesia, Federated States of
+- [ ] Moldova
+- [ ] Monaco
+- [ ] Mongolia
+- [ ] Montenegro
+- [ ] Morocco
+- [ ] Mozambique
+- [ ] Myanmar (Burma)
+- [ ] Namibia
+- [ ] Nauru
+- [ ] Nepal
 - [x] Netherlands
+- [ ] New Zealand
+- [ ] Nicaragua
+- [ ] Niger
+- [ ] Nigeria
+- [ ] North Macedonia
+- [ ] Norway
+- [ ] Oman
+- [ ] Pakistan
+- [ ] Palau
+- [ ] Panama
+- [ ] Papua New Guinea
+- [ ] Paraguay
+- [ ] Peru
+- [ ] Philippines
 - [x] Poland
 - [ ] Portugal
+- [ ] Qatar
 - [ ] Romania
+- [ ] Russia
+- [ ] Rwanda
+- [ ] Saint Kitts and Nevis
+- [ ] Saint Lucia
+- [ ] Saint Vincent and the Grenadines
+- [ ] Samoa
+- [ ] San Marino
+- [ ] Sao Tome and Principe
+- [ ] Saudi Arabia
+- [ ] Senegal
+- [ ] Serbia
+- [ ] Seychelles
+- [ ] Sierra Leone
+- [x] Singapore
 - [ ] Slovakia
-- [ ] Slovienia
-- [ ] Spain
+- [ ] Slovenia
+- [ ] Solomon Islands
+- [ ] Somalia
+- [ ] South Africa
+- [x] Spain
+- [ ] Sri Lanka
+- [ ] Sudan
+- [ ] Sudan, South
+- [ ] Suriname
 - [ ] Sweden
+- [ ] Switzerland
+- [ ] Syria
+- [ ] Taiwan
+- [ ] Tajikistan
+- [ ] Tanzania
+- [x] Thailand
+- [ ] Togo
+- [ ] Tonga
+- [ ] Trinidad and Tobago
+- [ ] Tunisia
+- [ ] Turkey
+- [ ] Turkmenistan
+- [ ] Tuvalu
+- [ ] Uganda
+- [ ] Ukraine
+- [x] United Arab Emirates
 - [x] United Kingdom
+- [x] United States
+- [ ] Uruguay
+- [ ] Uzbekistan
+- [ ] Vanuatu
+- [x] Vatican City
+- [ ] Venezuela
+- [ ] Vietnam
+- [ ] Yemen
+- [ ] Zambia
+- [ ] Zimbabwe
